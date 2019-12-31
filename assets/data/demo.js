@@ -6,7 +6,7 @@ module.exports = [
 		match: '78',
 		description: 'Full-time Traveller. Globe Trotter. Occasional Photographer. Part time Singer/Dancer.',
 		message: 'I will go back to Gotham and I will fight men Iike this but I will not become an executioner.',
-		image: require('../images/01.jpg')
+		image: require('../images/04.jpg')
 	},
 	{
 		id: 2,
@@ -33,7 +33,7 @@ module.exports = [
 		description: 'Full-time Traveller. Globe Trotter. Occasional Photographer. Part time Singer/Dancer.',
 		status: 'Online',
 		message: "Bats frighten me. It's time my enemies shared my dread.",
-		image: require('../images/04.jpg')
+		image: require('../images/01.jpg')
 	},
 	{
 		id: 5,

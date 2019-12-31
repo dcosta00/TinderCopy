@@ -2,6 +2,8 @@
 	"expo": {
 		"name": "tinderUI",
 		"slug": "tinderUI",
+		"description": "Tinder clone based StevenPersion Tutorial",
+		"githubUrl": "https://github.com/dcosta00/TinderCopy",
 		"privacy": "public",
 		"sdkVersion": "36.0.0",
 		"platforms": [ "ios", "android", "web" ],
